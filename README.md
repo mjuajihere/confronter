@@ -6,8 +6,8 @@
 - 😄 Pronouns: any
 - ⚡ Fun fact: am not funny
 
- <h1 align="center"> FLASH-MD </h1>
-<p align="center"> FLASH-MD, A Simple WhatsApp user BOT, Created by Confronter.
+ <h1 align="center"> CONFRONTER </h1>
+<p align="center"> CONFRONTER, A Simple WhatsApp user BOT, Created by Confronter.
 </p>
 
 
